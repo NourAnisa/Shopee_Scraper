@@ -4,4 +4,4 @@
 
 ![image](https://user-images.githubusercontent.com/48305341/209431850-b08bb722-c12c-491f-9cd2-d9684e301f0e.png)
 
-3. kemudian run dengan terminal sele_shopee.py atau sele_shopee_detail.py
+3. kemudian run dengan terminal sele_shopee.py , index.py atau sele_shopee_detail.py
